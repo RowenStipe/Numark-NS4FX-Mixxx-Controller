@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "es2016",
+        "lib": ["ES2016"],
+        "checkJs": true,
+        "allowJs": true
+    },
+    "include": [
+        "**/**.js",
+        // Linux global install location
+        "/usr/share/mixxx/controllers/**.d.ts"
+    ],
+    "exclude": [
+        "**/node_modules/*"
+    ]
+}

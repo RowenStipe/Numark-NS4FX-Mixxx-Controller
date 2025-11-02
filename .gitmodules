@@ -1,0 +1,3 @@
+[submodule "Original"]
+	path = Original
+	url = https://github.com/Olivier34/mixxx-numark-ns4fx.git
