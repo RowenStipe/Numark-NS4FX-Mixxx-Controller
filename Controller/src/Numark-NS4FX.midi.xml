@@ -55,7 +55,7 @@
         <scriptfiles>
             <file filename="lodash.mixxx.js"/>
             <file filename="midi-components-0.0.js"/>
-            file filename="Numark-NS4FX-Controller.js" functionprefix="NS4FX"/>
+            <file filename="Numark-NS4FX-Controller.js" functionprefix="NS4FX"/>
         </scriptfiles>
         <controls>
             <!-- Track Selection -->
